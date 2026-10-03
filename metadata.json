@@ -1,0 +1,6 @@
+{
+  "name": "OmniSocial - Quản lý & Lên lịch Đăng bài Đa nền tảng",
+  "description": "Bảng điều khiển hiện đại quản lý, tạo nội dung, lên lịch và đăng bài đa nền tảng cho Facebook Fanpage, Instagram, TikTok và YouTube.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
